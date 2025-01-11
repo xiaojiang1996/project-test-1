@@ -1,12 +1,12 @@
 # project-test-1
 
-A simple web project with HTML, CSS, and JavaScript functionality.
+一个简单的网页项目，包含 HTML、CSS 和 JavaScript 功能。
 
-## Project Structure
+## 项目结构
 - index.html
 - styles.css
 - script.js
 
-## Setup
-1. Clone the repository
-2. Open index.html in your browser
+## 安装说明
+1. 克隆仓库
+2. 在浏览器中打开 index.html
